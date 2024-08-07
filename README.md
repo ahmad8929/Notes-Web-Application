@@ -4,7 +4,7 @@ This is a web application for managing notes. It allows users to create, read, u
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, TypeScript, React
+- Frontend: HTML, Bootstrap, TypeScript, React
 - Backend: Node.js, Express
 
 ## Features
